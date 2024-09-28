@@ -34,7 +34,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 
 local Window = Fluent:CreateWindow({
     Title = "SnYK Hub V2",
-    SubTitle = "- join my discord server : https://discord.gg/ZRapJfwPmK",
+    SubTitle = "- join my discord server : https://discord.gg/R8cy4yBx",
     TabWidth = 145,
     Size = UDim2.fromOffset(515, 350),
     Acrylic = false,
@@ -94,12 +94,12 @@ function AntiBan()
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-print("made by minh & dakii")
-    print("mbm x hub")
-    print("join my discord server : https://dsc.gg/m1m")
+print("made by EicrobloxYT")
+    print("SnYK Hub V2")
+    print("join my discord server : https://discord.gg/R8cy4yBx")
     print("boing boing")
     print("ty for using - have fun")
-    print("sk (on discord : @player.81 & @dakii_90790)")
+    print("sk (on discord : @ericrobloxyt1")
     print("wait ,.,")
     print("LCTSV - .,.")  
 
